@@ -77,13 +77,3 @@ Start the server
 
 **Server:** Node, Express
 
-## Snapshots
-
-
-## 📷 Screenshots
-
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
-### 📦 Product Page
-![Product](screenshots/product.png)
